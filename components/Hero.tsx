@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Button from './Button'
 
 
 const Hero = () => {
@@ -34,6 +35,17 @@ const Hero = () => {
         />
        ))}
       </div>
+
+
+    <p className="bold-16 lg:bold-20 text-blue-70">
+      198K
+      <span className="regular-16 lg:regular-20 ml-1 underline">Excellent Reviews</span>
+    </p>
+    </div>
+
+    <div className="flex w-full gap-3 sm:flex-row">
+      <Button type="button" title="Download App" variant="btn_green" />
+      <Button type="button" title="How We Work?" icon="/play.svg" variant="btn_white_text" />
     </div>
     </div>
 
