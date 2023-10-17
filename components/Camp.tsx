@@ -72,7 +72,7 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+            Starting From The Anxiety Of The Climbers When Visiting a New Climbing Location, The Possibility Of Getting Lost Is Very Large. That's Why We Are Here For Those Of You Who Want To Start An Adventure
           </p>
           <Image 
             src="/quote.svg"
