@@ -10,8 +10,8 @@ const Guide = () => {
           We Are Here For You
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2>Guide You To Easy Path</h2>
-          <p>Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
+          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You To Easy Path</h2>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
         </div>
       </div>
     </section>
